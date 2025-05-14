@@ -172,10 +172,11 @@ jupyter notebook "Color Detection Code.ipynb"
 
 **🎓 Alaa Emad Al Hout**  
 🆔 120233046  
-👨‍🏫 Supervised by: Dr. Ashraf Younis Al-Maghari
+👨‍🏫 Supervised by: Dr. Ashraf Younis Al-Maghari  
 📘 Course: Advanced Image Processing  
-🏫 Islamic University of Gaza - Postgraduate Studies (Master's) - Faculty of Information Technology 
+🏫 Islamic University of Gaza - Postgraduate Studies (Master's) - Faculty of Information Technology  
 📅 Date: May 14, 2025  
+
 
 ---
 
