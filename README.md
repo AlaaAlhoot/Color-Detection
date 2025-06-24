@@ -86,8 +86,8 @@ This project implements a **real-time and batch image color detection system** u
 
 | Image       | Detected Color | Hex Code | Color Preview |
 |-------------|----------------|----------|----------------|
-| image1.jpg  | Blue           | #123ABC  | ![image1](img_test/image1.jpg ) |
-| image2.jpg  | Red            | #C3211F  | ![image2](img_test/image2.jpg ) |
+| image1.jpg  | Blue           | #123ABC  | ![image1](img_test/img1.jpg) |
+| image2.jpg  | Red            | #C3211F  | ![image2](img_test/img2.jpg) |
 
 > The Excel file is fully formatted with visual color previews.
 
